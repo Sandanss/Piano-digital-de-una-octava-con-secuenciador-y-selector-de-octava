@@ -1,0 +1,2 @@
+# Piano-digital-de-una-octava-con-secuenciador-y-selector-de-octava
+Piano digital implementado en VHDL sobre una FPGA DE0. Permite tocar 21 notas en 3 octavas usando 7 botones, cambiar de octava con switches y grabar melodías para reproducirlas después. El audio se genera dividiendo el reloj de 50 MHz y sale por un amplificador LM386 un parlante.Todo se controla con una  FSM y se visualiza en displays 7 segmentos.
